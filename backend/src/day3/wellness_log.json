@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-11-24 10:54:23",
+    "mood": "Tired",
+    "energy": "Low",
+    "stressors": "General feeling of having a lot to do",
+    "goals": [
+      "Prepare for the exam",
+      "Do homework"
+    ],
+    "summary": "User mood: Tired. Energy: Low. Stressors: General feeling of having a lot to do. Goals for today: Prepare for the exam, Do homework."
+  },
+  {
+    "timestamp": "2025-11-24 10:58:39",
+    "mood": "tired",
+    "energy": "slow",
+    "stressors": "High exams",
+    "goals": [
+      "prepare something",
+      "watch a meeting"
+    ],
+    "summary": "User mood: tired. Energy: slow. Stressors: High exams. Goals for today: prepare something, watch a meeting."
+  }
+]
