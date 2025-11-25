@@ -1,0 +1,26 @@
+[
+  {
+    "id": "photosynthesis",
+    "title": "Photosynthesis",
+    "summary": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to make their own food and release oxygen.",
+    "sample_question": "Why do plants need sunlight for photosynthesis, and what gas do they release?"
+  },
+  {
+    "id": "fractions",
+    "title": "Fractions",
+    "summary": "Fractions represent a part of a whole. They have a numerator (top) and denominator (bottom). For example, 1/2 means one part out of two equal parts.",
+    "sample_question": "What does the numerator and denominator represent in a fraction like 3/4?"
+  },
+  {
+    "id": "worldwar2",
+    "title": "World War II",
+    "summary": "World War II was a global conflict from 1939 to 1945 involving many countries. It had major events like the invasion of Poland, Pearl Harbor, and the atomic bombings of Japan.",
+    "sample_question": "Name one major cause or event that contributed to the start of World War II."
+  },
+  {
+    "id": "time_management",
+    "title": "Time Management",
+    "summary": "Time management is the practice of planning and organizing how to divide your time between activities so you can work smarter and reduce stress.",
+    "sample_question": "What is one simple technique you can use to manage your time better during a busy day?"
+  }
+]
