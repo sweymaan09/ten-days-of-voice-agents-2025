@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-11-26 09:12:35",
+    "lead": {
+      "name": "Steve Harrington",
+      "company": "Future Labs",
+      "email": "steve@gmail.com",
+      "role": "Product manager",
+      "use_case": "online payments for my app",
+      "team_size": "10 people",
+      "timeline": "soon",
+      "notes": ""
+    },
+    "summary": "Lead: Steve Harrington from Future Labs, role: Product manager. Use case: online payments for my app. Team size: 10 people. Timeline: soon."
+  }
+]

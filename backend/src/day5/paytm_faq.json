@@ -1,0 +1,50 @@
+[
+  {
+    "id": "what_is_paytm",
+    "question": "What is Paytm and what does it do?",
+    "answer": "Paytm is an Indian digital payments and financial services platform. You can use it to send and receive money, pay bills, recharge mobile and DTH, book tickets, and pay merchants using UPI, wallet, cards, and net banking.",
+    "keywords": ["what is paytm", "paytm do", "about paytm", "digital payments", "payment app", "india"]
+  },
+  {
+    "id": "who_is_it_for",
+    "question": "Who is Paytm for?",
+    "answer": "Paytm is for both individuals and businesses. Individuals can use it for everyday payments and bills, while businesses and merchants can use Paytm to accept payments from customers online and offline.",
+    "keywords": ["who is this for", "who can use", "merchants", "business", "individual", "users"]
+  },
+  {
+    "id": "fees_consumer",
+    "question": "Is Paytm free for normal users?",
+    "answer": "For most personal users, features like UPI money transfers, bill payments, and mobile recharges do not have any extra platform charges from Paytm. However, your bank or operator may have their own charges in some cases. Always check final details in the app.",
+    "keywords": ["free", "charges", "fees", "cost", "pricing", "personal", "consumer", "upi free"]
+  },
+  {
+    "id": "merchant_pricing",
+    "question": "How does Paytm charge businesses or merchants?",
+    "answer": "Paytm may charge a small fee to businesses for some types of transactions or services, such as payment gateway usage or certain card payments. Exact pricing and MDR depend on the business type, payment method, and current Paytm policies. Businesses should always check the latest pricing page or talk to Paytm sales for precise details.",
+    "keywords": ["merchant", "business pricing", "payment gateway", "mdr", "transaction fee", "charges for business"]
+  },
+  {
+    "id": "security",
+    "question": "Is Paytm secure?",
+    "answer": "Paytm uses industry-standard security practices such as encryption, secure authentication, and device binding. Users should enable screen lock, avoid sharing OTPs or PINs with anyone, and only use the official Paytm app or website for login and payments.",
+    "keywords": ["secure", "safe", "security", "fraud", "otp", "pin"]
+  },
+  {
+    "id": "support",
+    "question": "How can I get help or support?",
+    "answer": "You can use the Help & Support section inside the Paytm app or website to raise a ticket or chat with support. For transaction-specific issues, select the exact order from your history to get faster help.",
+    "keywords": ["support", "help", "contact", "customer care", "issue"]
+  },
+  {
+    "id": "use_cases",
+    "question": "Common use cases for Paytm",
+    "answer": "People commonly use Paytm for UPI payments, QR code payments at shops, bill payments, recharges, ticket bookings, and for accepting payments as a merchant using QR, Soundbox, or online payment links.",
+    "keywords": ["use case", "what can i do", "examples", "qr", "soundbox", "ticket", "bill payments"]
+  },
+  {
+    "id": "free_tier",
+    "question": "Do you have a free tier?",
+    "answer": "Yes, regular customers can sign up and use Paytm for many basic services like UPI payments, mobile recharges, and bill payments without a separate subscription fee. Some advanced business services or financial products may have additional pricing or eligibility conditions.",
+    "keywords": ["free tier", "subscription", "plan", "pricing", "basic plan"]
+  }
+]
